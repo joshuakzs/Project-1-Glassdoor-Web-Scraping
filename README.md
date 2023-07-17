@@ -25,3 +25,5 @@ Job titles that we will investigate include:
    - Seaborn
    - Matplotlib
    - ydata-profiling
+   - httpx
+   - parsel
