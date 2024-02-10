@@ -1,5 +1,5 @@
 # Project-1-Glassdoor-Web-Scraping
-Web scraping data from Glassdoor on typical data science major job titles. Data cleaning and exploratory data analysis (EDA) are conducted to procure insights. These insights will then be presented using a dashboard and a PowerPoint presentation.
+Web scraping data from Glassdoor on typical data science major job titles. Next steps are to create pipelines to clean the data and store them into a database like Dbeaver. After that, we can perform exploratory data analysis (EDA) to procure insights. These insights will then be presented using a dashboard.
 
 ## Scope of Job Roles
 Job titles that we will investigate include:
